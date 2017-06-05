@@ -1,0 +1,17 @@
+button,
+   div,
+   form,
+   input {
+     margin: 5px;
+     color: aqua;
+     font-weight: bold;
+     font-size: 30px;
+   }
+   body {
+    background-image: url("../images/320259.jpg");
+    background-size: 100%;
+   }
+   button {
+    background-color: darkblue;
+    color: white;
+   }
